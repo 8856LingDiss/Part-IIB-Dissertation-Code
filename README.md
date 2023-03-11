@@ -1,7 +1,7 @@
 # Part-IIB-Dissertation-Code
 This is the code associated with the Part IIB Dissertation submitted in March 2023, associated with candidate number 8856. 
 
-This folder contains a sample of the **Grammatical Error Detection** probing results for Layer 12 of BERT (Devlin et al 2019). All probing experiments cited were run in the Computer Lab in research supported by Cambridge University Press & Assessment.  The per-layer probing results were personally shared by Chris Davis and Andrew Caines for further analysis in this dissertation.
+This contains a sample of the **Grammatical Error Detection** probing results for Layer 12 of BERT (Devlin et al 2019). All probing experiments cited were run in the Computer Lab in research supported by Cambridge University Press & Assessment.  The per-layer probing results were personally shared by Chris Davis and Andrew Caines for further analysis in this dissertation. 
 
 
 There are two additional folders: 
