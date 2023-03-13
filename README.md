@@ -15,11 +15,11 @@ The targeted syntactic evaluation dataset developed by **Marvin & Linzen (2018)*
 The W&I-FCE corpus used to train the GED probe is available here: https://www.cl.cam.ac.uk/research/nl/bea2019st/ 
 
 ### Cambridge English Write & Improve
-Write & Improve (Yannakoudakis et al., 2018) is an online web platform that assists non-native English students with their writing. Specifically, students from around the world submit letters, stories, articles and essays in response to various prompts, and the W&I system provides instant feedback. Since W&I went live in 2014, W&I annotators have manually annotated some of these submissions and assigned them a CEFR level.
+Write & Improve (Yannakoudakis et al., 2018) is an online web platform that assists non-native English students with their writing. Learners submit letters, stories, articles and essays in response to various prompts, and the W&I system provides instant feedback. The corpus comprises of annoated W&I  submissions, each assigned a CEFR level.
 
 ### LOCNESS
 
-The LOCNESS corpus (Granger, 1998) consists of essays written by native English students. It was originally compiled by researchers at the Centre for English Corpus Linguistics at the University of Louvain. Since native English students also sometimes make mistakes, we asked the W&I annotators to annotate a subsection of LOCNESS so researchers can test the effectiveness of their systems on the full range of English levels and abilities.
+The LOCNESS corpus (Granger, 1998) consists of essays written by native English students. It was originally compiled by researchers at the Centre for English Corpus Linguistics at the University of Louvain. The W&I annotators to anontated a subsection of LOCNESS so researchers can test the effectiveness of their systems on the full range of English levels and abilities.
 
 ### ERRANT Annotation Tool
 This repository contains the grammatical ERRor ANnotation Toolkit (ERRANT) can be found here: 
